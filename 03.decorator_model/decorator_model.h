@@ -101,10 +101,4 @@ public:
     }
 };
 
-class decorator_model
-{
-public:
-    decorator_model();
-};
-
 #endif // DECORATOR_MODEL_H
