@@ -9,6 +9,7 @@
 05.factory_method_model  工厂方法模式
 06.prototype_model       原型模式
 07.template_method_model 模板方法模式
+08.facade_model          外观模式，又叫：门面模式
 
 实际案例：
 01.Simple_factory_model  简单工厂模式
@@ -33,3 +34,6 @@
 	baseTableWidget
 	https://github.com/jedi007/SuperTimer
 	模板类、模板函数
+	
+08.facade_model          外观模式，又叫：门面模式
+	为一组button设置不同组合状态
