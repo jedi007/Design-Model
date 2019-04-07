@@ -30,9 +30,11 @@ void MainWindow::on_pushButton_clicked()
     b->Display();
     c->Display();
 
-    qDebug()<<endl<<"----------测试拷贝构造函数----------"<<endl;
+    qDebug()<<endl<<"----------测试赋值运算符----------"<<endl;
     c->SetWorkExperience("2010-1019","ZZZ公司");
     *a = *c;
     c->SetWorkExperience("2010-1019","AAA公司");
     a->Display();
+
+    //说明默认的赋值运算符就是浅拷贝
 }

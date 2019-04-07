@@ -1,0 +1,2 @@
+#include "templateclass.h"
+

@@ -8,6 +8,7 @@
 04.proxy_model           代理模式
 05.factory_method_model  工厂方法模式
 06.prototype_model       原型模式
+07.template_method_model 模板方法模式
 
 实际案例：
 01.Simple_factory_model  简单工厂模式
@@ -26,3 +27,9 @@
 06.prototype_model       原型模式
 	拷贝构造函数
 	各种值传递应用场景
+	
+07.template_method_model 模板方法模式
+	抽象类
+	baseTableWidget
+	https://github.com/jedi007/SuperTimer
+	模板类、模板函数
