@@ -10,6 +10,7 @@
 06.prototype_model       原型模式
 07.template_method_model 模板方法模式
 08.facade_model          外观模式，又叫：门面模式
+09.builer_model          建造者模式
 
 实际案例：
 01.Simple_factory_model  简单工厂模式
