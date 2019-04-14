@@ -11,6 +11,7 @@
 07.template_method_model 模板方法模式
 08.facade_model          外观模式，又叫：门面模式
 09.builer_model          建造者模式
+10.Observer_model        观察者模式
 
 实际案例：
 01.Simple_factory_model  简单工厂模式
@@ -38,3 +39,10 @@
 	
 08.facade_model          外观模式，又叫：门面模式
 	为一组button设置不同组合状态
+	
+09.builer_model          建造者模式
+	PSM项目中CMessageBox的构造
+	
+10.Observer_model        观察者模式
+	QT信号槽的实现（还加以反射模式使得使用更加方便）
+	
