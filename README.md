@@ -13,6 +13,7 @@
 09.builer_model           建造者模式
 10.Observer_model         观察者模式
 11.abstract_factory_model 抽象工厂模式
+12.state_model            状态模式
 
 实际案例：
 01.Simple_factory_model  简单工厂模式
