@@ -15,6 +15,7 @@
 11.abstract_factory_model 抽象工厂模式
 12.state_model            状态模式
 13.adapter_model          适配器模式
+14.Memento_model          备忘录模式
 
 实际案例：
 01.Simple_factory_model  简单工厂模式
