@@ -17,6 +17,7 @@
 13.adapter_model          适配器模式
 14.Memento_model          备忘录模式
 15.composite_model        组合模式
+16.iterator_model         迭代器模式
 
 实际案例：
 01.Simple_factory_model  简单工厂模式
@@ -65,4 +66,15 @@
 						  例如PSM项目中new 了MessageBox之后再对他进行不同的定制化设置。
 						    ***不同建造者 建造出的是同一个类的各个不同不同的状态（或者叫不同的部件组合）
 					
-	
+12.state_model            状态模式
+
+13.adapter_model          适配器模式
+
+14.Memento_model          备忘录模式
+
+15.composite_model        组合模式
+
+16.iterator_model         迭代器模式	
+	个人观点，当有多种不同类型的对象集合，都需要使用排序、查找等遍历、访问操作时，
+	使用迭代器模式才有价值，且非常有价值。相当于抽象出了共同的操作交给迭代器处理。
+	现在很多框架都直接集成了该模式，不用再自己去实现。例如QT当中的QVector等。
