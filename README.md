@@ -20,6 +20,7 @@
 16.iterator_model         迭代器模式
 17.Singleton_model        单例模式
 18.bridge_model           桥接模式
+19.command_model          命令模式
 
 实际案例：
 01.Simple_factory_model  简单工厂模式
