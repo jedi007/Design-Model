@@ -2,25 +2,26 @@
 
 #基本所有demo背景资料均来自于《大话设计模式》
 
-01.Simple_factory_model   简单工厂模式
-02.strategic_model        策略模式
-03.decorator_model        装饰器模式
-04.proxy_model            代理模式
-05.factory_method_model   工厂方法模式
-06.prototype_model        原型模式
-07.template_method_model  模板方法模式
-08.facade_model           外观模式，又叫：门面模式
-09.builer_model           建造者模式
-10.Observer_model         观察者模式
-11.abstract_factory_model 抽象工厂模式
-12.state_model            状态模式
-13.adapter_model          适配器模式
-14.Memento_model          备忘录模式
-15.composite_model        组合模式
-16.iterator_model         迭代器模式
-17.Singleton_model        单例模式
-18.bridge_model           桥接模式
-19.command_model          命令模式
+01.Simple_factory_model           简单工厂模式
+02.strategic_model                策略模式
+03.decorator_model                装饰器模式
+04.proxy_model                    代理模式
+05.factory_method_model           工厂方法模式
+06.prototype_model                原型模式
+07.template_method_model          模板方法模式
+08.facade_model                   外观模式，又叫：门面模式
+09.builer_model                   建造者模式
+10.Observer_model                 观察者模式
+11.abstract_factory_model         抽象工厂模式
+12.state_model                    状态模式
+13.adapter_model                  适配器模式
+14.Memento_model                  备忘录模式
+15.composite_model                组合模式
+16.iterator_model                 迭代器模式
+17.Singleton_model                单例模式
+18.bridge_model                   桥接模式
+19.command_model                  命令模式
+20.chain_of_respomsibility_model  责任链模式
 
 实际案例：
 01.Simple_factory_model  简单工厂模式
