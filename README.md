@@ -25,6 +25,7 @@
 21.mediator_model                 中介者模式
 22.Flyweight_model                享元模式
 23.interpreter_model              解释器模式
+24.visitor_model                  访问者模式
 
 
 实际案例：
